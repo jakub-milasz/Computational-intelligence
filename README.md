@@ -8,6 +8,10 @@ Here you can find projects using Artificial Intelligence algorithms.
 
 Animations for Travelling Salesman Problem:
 
+Roulette:
+
 ![roulette](https://github.com/user-attachments/assets/95a0b36c-4750-4df4-bfb9-f108de27a848)
+
+Tournament Selection:
 
 ![tournament](https://github.com/user-attachments/assets/0d70fec8-a7c7-4dad-a6bc-46cfda621c06)
