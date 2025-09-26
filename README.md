@@ -4,6 +4,7 @@ Here you can find projects using Artificial Intelligence algorithms.
 2. Travelling Salesman Problem: Genetic Algorithm with Roulette and Tournament Selection Comparison.
 3. Fuzzy highway hazard assessment system using skfuzzy.
 4. Neural Network used to predict a value.
+It is better to download notebooks because of problem with rendering plots on github.
 
 
 Animations for Travelling Salesman Problem:
